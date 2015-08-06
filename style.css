@@ -1,0 +1,39 @@
+body{
+	font-size: 20px;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: green;
+}
+
+h3{
+	font-size: 20px;
+	color:orange;
+}
+p{
+	font-size: 1em;
+	color: green;
+}
+
+#greenitem{
+	color: green;
+}
+#p2{
+	font-size: 15px;
+	color: green;
+}
+.blueitem{
+	color: blue;
+}
+.right{
+float:left;
+}
+.clear{
+	clear:both;
+}
+#noot{
+	color:black;
+	clear:right;
+}
